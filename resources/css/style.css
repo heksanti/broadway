@@ -18,7 +18,7 @@ h1 {
   font-family: helvetica;
 }
 
-.process {
+#process {
   font-family: helvetica;
   font-size: 32px;
   font-weight: bold;
@@ -35,14 +35,15 @@ p {
   font-size: 14px;
 }
 
-.design {
+#design {
   font-family: helvetica;
   font-weight: bold;
   font-size: 23px;
   color: white;
+  background-image: url("https://heksanti.github.io/broadway/resources/images/flatiron.png");
 }
 
-.end {
+#end {
   font-family: helvetica;
   font-size: 11px;
   background-color: dimgray;
