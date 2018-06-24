@@ -35,6 +35,10 @@ p {
   font-size: 14px;
 }
 
+p a {
+  color: White;
+}
+
 #design {
   font-family: helvetica;
   font-weight: bold;
@@ -48,8 +52,4 @@ p {
   font-size: 11px;
   background-color: dimgray;
   text-align: left;
-}
-
-a {
-  color: White;
 }
