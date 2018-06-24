@@ -47,6 +47,9 @@ p {
   font-family: helvetica;
   font-size: 11px;
   background-color: dimgray;
-  color: White;
   text-align: left;
+}
+
+a {
+  color: White;
 }
