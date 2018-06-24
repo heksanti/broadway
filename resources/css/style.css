@@ -1,0 +1,49 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+
+.header {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  color: White;
+  font-weight: bold;
+  font-size: 70px;
+  font-family: helvetica;
+}
+
+.process {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: helvetica
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.design {
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 23px;
+  color: white;
+}
+
+.end {
+  font-family: helvetica;
+  font-size: 11px;
+  background-color: dimgray;
+  color: gray;
+}
