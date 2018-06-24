@@ -3,10 +3,11 @@ body {
   text-align: center;
 }
 
-.header {
+#header {
   font-family: helvetica;
   font-size: 18px;
   color: white;
+  background-image: 
 }
 
 h1 {
